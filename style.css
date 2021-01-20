@@ -1,0 +1,109 @@
+#image1{
+width:400px;
+    border-radius:400%;
+    height: 200px;
+}
+
+
+body{
+    text-align: center;
+    
+}
+
+h1{
+    font-family:fantasy;
+    text-decoration: underline;
+    color: red;
+    font-size: 50px;
+}
+
+h2{
+font-family: cursive;
+}
+
+.menu{
+    font-family: sans-serif;
+    position: absolute;
+    top:0px;
+    right:0px;
+    list-style: none;
+    z-index: 10;
+    height:1000px;
+    
+}
+
+.menu:hover{
+font-size:60px;
+    
+}
+
+.links{
+    color:white;
+    padding-top: 9px;
+    
+    padding-right: 35px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-family:fantasy;
+    float: left;
+    font-weight: bold;
+    
+}
+
+.line{
+    height:6px;
+    background:#000;
+    width:70px;
+    margin:8px auto;
+}
+
+#sun{
+    width:400px;
+    height:200px;
+}
+
+.purcon{
+width:400px;
+    height:400px;
+}
+
+
+#home{
+    height:800px;
+    background-color: aquamarine;
+    padding-top: 100px;
+}
+
+#lenses{
+    height:800px;
+    background-color:fuchsia;
+}
+
+}
+h3{
+    font-size: 30px;
+}
+
+#sunglass{
+    height:800px;
+    background-color: chartreuse;
+}
+
+.glassimg{
+    width:400px;
+}
+
+#contact{
+ height:950px;
+    background-color:pink;
+}
+
+.con{
+    width:100px;
+}
+
+.links:hover{
+    font-size:50px;
+    color:Red;
+}
+
